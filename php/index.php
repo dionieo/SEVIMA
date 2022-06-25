@@ -9,8 +9,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>Halo selamat datang di Aplikasi Pembelajaran</h1>
+        <h1>Selamat datang di Aplikasi Pembelajaran</h1>
+        <h4>Akses semua materi pembelajaran kami secara GRATIS</h4>
         <button class="btn btn-primary">Mulai belajar></button>
+    </div>
+
+    <div class="container">
+        <h2>Beberapa testimoni dari pengguna Aplikasi Pembelajaran</h2>
         
     </div>
 </body>
